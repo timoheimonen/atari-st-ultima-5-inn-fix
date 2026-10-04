@@ -6,9 +6,12 @@ has been left at an inn.
 
 ## What was found
 
-The Atari ST version has a long-known bug report: *leaving a companion at an inn
-drops the party's karma to the minimum, which pushes all shop prices to the
-maximum.* The price jump is real, but karma has nothing to do with it:
+The Atari ST version has a well-known bug report (for example in
+[The King of Grabs' review](https://thekingofgrabs.com/2022/12/16/ultima-5-warriors-of-destiny-atari-st/)):
+*leaving a companion at an inn drops the party's karma to the minimum, which
+pushes all shop prices to the maximum.* The price jump is real, but its actual
+cause does not appear to have been identified before. Karma has nothing to do
+with it:
 
 - Leaving a companion does not change karma. Merchant prices do not use karma at
   all. They depend on the intelligence of the party member who does the buying:
