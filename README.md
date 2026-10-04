@@ -53,7 +53,7 @@ patched program is written back into the same sector of the STX image in place;
 Checked in Hatari with the fixed disk: after leaving Mariah at the inn the
 index stays `$FF`, and the party, the room price and karma are as before.
 
-## The disk prompt hang (not changed)
+## The disk prompt hang
 
 The ST version is also known for asking for the disk that is already in the
 drive and then hanging. What the program does:
